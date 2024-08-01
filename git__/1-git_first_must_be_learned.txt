@@ -9,4 +9,4 @@ git log	===> show information logs
 git diff head		show information changes evry things in head(last commited)
 git diff --staged		show information changes evry things in status stage
 git reset namefile		===>	back file selected in stage to untrack 
-git checkout -- namefile		===>	back file to changes in last commite
+git checkout -- namefile		===>	back file to changes in last commite 
