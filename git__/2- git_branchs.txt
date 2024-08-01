@@ -1,0 +1,3 @@
+git branch		//	show details branchs
+git branch namebranch	//		create branch
+git checkout namebranch		//	go to branch
