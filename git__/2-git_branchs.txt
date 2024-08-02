@@ -1,3 +1,7 @@
 git branch		//	show details branchs
 git branch namebranch	//		create branch
 git checkout namebranch		//	go to branch
+git rm namebranch		//	remove branch
+git clone urlProject		//	get Project from github OR gitlab with urlProject
+git push origin namebranch	//	push(send informations to server) to github or gitlab
+git pull origin namebranch	//	pull(update informations from server in local) from github or gitlab
