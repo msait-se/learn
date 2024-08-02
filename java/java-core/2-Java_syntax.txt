@@ -1,0 +1,4 @@
+executive order == >	()	-	power	-	multiple	-	addition
+
+1- Assignment varaibles is done from right to left.
+
