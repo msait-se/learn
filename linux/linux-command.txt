@@ -1,3 +1,5 @@
+
+touch -> make file
 . -> current directory
 .. -> parent directory
 mkdir -> make directory
