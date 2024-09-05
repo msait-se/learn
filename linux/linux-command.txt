@@ -1,0 +1,13 @@
+. -> current directory
+.. -> parent directory
+mkdir -> make directory
+rmdir -> remove directory
+cd -> change directory
+ls -ltrh -> show files and directory
+clear -> clear the screen
+cat - show contents of a file
+cp file1 file2 -> copy file1 to file2
+rm -> remove files
+sudo command -> runs command with root access 
+less -> show a huge file(or a small file) page by page with control
+grep -> find one string in a file and show containing lines
